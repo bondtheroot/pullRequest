@@ -1,1 +1,1 @@
-print("C")
+printf("C")
